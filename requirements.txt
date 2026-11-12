@@ -1,0 +1,4 @@
+dnspython>=2.3
+# Optional but recommended — enables full record enumeration and AXFR.
+# Without it, dnsrecon falls back to basic stdlib A-record lookups.
+# Python 3.8+
